@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import { Briefcase, GraduationCap, Rocket } from "lucide-react";
 import './App.css';
 
 function App() {
