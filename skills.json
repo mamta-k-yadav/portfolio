@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Technical SEO",
+        "icon": "https://img.icons8.com/color/48/000000/seo.png"
+    },
+    {
+        "name": "On-Page SEO",
+        "icon": "https://img.icons8.com/color/48/overview-pages-1.png"
+    },
+    {
+        "name": "Off-Page SEO",
+        "icon": "https://img.icons8.com/color/48/link--v1.png"
+    },
+    {
+        "name": "Meta Ads (Facebook & Instagram)",
+        "icon": "https://img.icons8.com/color/48/facebook--v1.png"
+    },
+    {
+        "name": "Google Ads",
+        "icon": "https://img.icons8.com/color/48/google-ads.png"
+    },
+    {
+        "name": "Lead Generation",
+        "icon": "https://img.icons8.com/color/48/genealogy.png"
+    },
+    {
+        "name": "Conversion Rate Optimization (CRO)",
+        "icon": "https://img.icons8.com/color/50/filled-filter.png"
+    },
+    {
+        "name": "Web Analytics (GA4)",
+        "icon": "https://img.icons8.com/color/48/google-analytics.png"
+    },
+    {
+        "name": "Search Console",
+        "icon": "https://img.icons8.com/color/48/console.png"
+    },
+    {
+        "name": "Semrush",
+        "icon": "https://img.icons8.com/color/48/comet.png"
+    },
+    {
+        "name": "Screaming Frog",
+        "icon": "https://img.icons8.com/color/48/frog.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/power-bi.png"
+    },
+    {
+        "name": "Excel & Reporting",
+        "icon": "https://img.icons8.com/color/48/ms-excel.png"
+    },
+    {
+        "name": "Content Optimization",
+        "icon": "https://img.icons8.com/color/48/content.png"
+    },
+    {
+        "name": "Link Building",
+        "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/60/external-build-seo-soft-fill-soft-fill-juicy-fish.png"
+    },
+    {
+        "name": "WordPress SEO",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
+    },
+    {
+        "name": "Ubersuggest",
+        "icon": "https://img.icons8.com/emoji/48/bald-man-medium-light-skin-tone.png"
+    },
+    {
+        "name": "Google Tag Manager",
+        "icon": "https://img.icons8.com/color/48/google-tag-manager.png"
+    },
+    {
+        "name": "HubSpot Marketing",
+        "icon": "https://img.icons8.com/color/48/customer-insight.png"
+    },
+    {
+        "name": "Email Marketing",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-email-marketing-digital-marketing-flaticons-flat-flat-icons.png"
+    },
+    {
+        "name": "Canva Design",
+        "icon": "https://img.icons8.com/color/48/canva.png"
+    },
+    {
+        "name": "Social Media Strategy",
+        "icon": "https://img.icons8.com/color/48/share.png"
+    },
+    {
+        "name": "Data-Driven Growth",
+        "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
+    }
+]
